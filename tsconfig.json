@@ -16,6 +16,6 @@
     "typeRoots": ["node_modules/@types", "@types"],
     "noImplicitAny": false
   },
-  "include": ["src/**/*.ts"],
+  "include": ["src/**/*.ts", "tooling"],
   "exclude": ["node_modules", "**/*.spec.ts", "**/*.test.ts"]
 }
